@@ -9,5 +9,5 @@ The CSL citation styles of law journals in Taiwan. 臺灣法學期刊引註格�
 
 ## Similar Projects 類似專案
  - GYB, [Mandarin-NCCULR_Chicago CSL Script](https://vocus.cc/article/65728c1afd8978000101e71b)：適用於政大法學評論。
- - 趙承灝，[「國立臺灣大學法學論叢（2020年新修版）」 CSL](https://www.threads.net/@cheng.hao.ty/post/DDW2ZK-PAeG)
+ - 趙承灝，[「國立臺灣大學法學論叢（2020年新修版）」 CSL](https://www.threads.net/@cheng.hao.ty/post/DDW2ZK-PAeG)；同作者，[「法學期刊引註格式凡例」 CSL](https://www.threads.com/@cheng.hao.ty/post/DSIBVkpk_KJ)。
 
